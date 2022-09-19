@@ -7,7 +7,8 @@
 
 ```text
 💬 Programming Languages: 
-C++                      6 hrs 33 mins       █████████████████████████   100.0%
+C++                      5 hrs 11 mins       █████████████████████████   99.95% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 ```
 
@@ -16,7 +17,7 @@ C++                      6 hrs 33 mins       ███████████�
 ![Chart not found](https://raw.githubusercontent.com/TauCeti0207/TauCeti0207/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/09/2022 18:52:56 UTC
+ Last Updated on 19/09/2022 18:56:13 UTC
 <!--END_SECTION:waka-->
 
 
