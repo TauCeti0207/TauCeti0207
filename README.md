@@ -16,7 +16,7 @@ C++                      25 mins             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/TauCeti0207/TauCeti0207/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 18:54:54 UTC
+ Last Updated on 03/10/2022 19:00:17 UTC
 <!--END_SECTION:waka-->
 
 
