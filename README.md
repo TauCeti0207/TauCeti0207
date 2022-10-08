@@ -7,7 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-C++                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -16,7 +16,7 @@ C++                      9 mins              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/TauCeti0207/TauCeti0207/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/10/2022 18:59:05 UTC
+ Last Updated on 08/10/2022 18:54:45 UTC
 <!--END_SECTION:waka-->
 
 
