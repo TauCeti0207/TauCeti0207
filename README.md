@@ -7,8 +7,7 @@
 
 ```text
 💬 Programming Languages: 
-SQL                      5 mins              ████████████████████████░   96.61% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+No Activity Tracked This Week
 
 ```
 
@@ -17,7 +16,7 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/TauCeti0207/TauCeti0207/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2022 18:51:30 UTC
+ Last Updated on 30/10/2022 18:49:48 UTC
 <!--END_SECTION:waka-->
 
 
