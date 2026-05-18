@@ -1,14 +1,41 @@
-<img align="right" src="https://count.getloli.com/get/@:TauCeti0207?theme=rule34">
+# Hi, I'm TauCeti0207
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-400%20Thousand%20lines%20of%20code-blue)
+I build and explore tools around AI, automation, quantitative research, and developer workflows.
 
-**Timeline**
+Currently focused on:
 
-![Chart not found](https://raw.githubusercontent.com/TauCeti0207/TauCeti0207/main/charts/bar_graph.png) 
+- AI coding workflows, local agents, and API-compatible tooling
+- Quantitative backtesting and strategy research
+- CLI tools that make everyday development faster
+- Computer science fundamentals and practical systems work
 
+## Tech Stack
 
- Last Updated on 09/11/2022 18:49:35 UTC
-<!--END_SECTION:waka-->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## Interests
 
+```text
+AI tooling        Agents, prompts, model APIs, coding assistants
+Quant research    Backtesting, portfolio allocation, factor experiments
+Automation        Scripts, CLIs, data workflows, local-first tools
+Systems           CS fundamentals, performance, reliability
+```
+
+## GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TauCeti0207&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauCeti0207&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Building quietly, shipping steadily.</sub>
+</p>
