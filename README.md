@@ -27,13 +27,6 @@ Automation        Scripts, CLIs, data workflows, local-first tools
 Systems           CS fundamentals, performance, reliability
 ```
 
-## GitHub
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TauCeti0207&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauCeti0207&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
 ---
 
 <p align="center">
