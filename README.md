@@ -1,5 +1,7 @@
 # Hi, I'm TauCeti0207
 
+Email: a2076188013@gmail.com
+
 I build and explore tools around AI, automation, quantitative research, and developer workflows.
 
 Currently focused on:
